@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/drighelli/spatial_manubot/tree/gh-pages) branch hosts the contents of this directory at <https://drighelli.github.io/spatial_manubot/>.
-The permalink for this webpage version is <https://drighelli.github.io/spatial_manubot/v/97b294802ffcd39071b6e5b8ab59f60faf4be118/>.
+The permalink for this webpage version is <https://drighelli.github.io/spatial_manubot/v/1fb4b67190e4dff526b40b60872f94292eed7132/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://drighelli.github.io/spatial_manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`97b294802ffcd39071b6e5b8ab59f60faf4be118`](https://github.com/drighelli/spatial_manubot/commit/97b294802ffcd39071b6e5b8ab59f60faf4be118).
+[`1fb4b67190e4dff526b40b60872f94292eed7132`](https://github.com/drighelli/spatial_manubot/commit/1fb4b67190e4dff526b40b60872f94292eed7132).
